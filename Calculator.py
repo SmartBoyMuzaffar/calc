@@ -16,7 +16,7 @@ print("code writed by>> : Muzaffar Sharodiddinov")
 print()
 print()
 a=int(input("1-son>> :"))
-c=input("belgi >> :")
+c=input("belgi '+ - * / ^ % ...' >> :")
 b=int(input("2-son>> :"))
 
 if c=='+':
